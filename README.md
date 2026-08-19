@@ -163,21 +163,6 @@ Result Interpretation & Display
 - **Output:** Binary classification (Heart Disease: Yes/No)
 - **Model File:** `knn_heart_model.pkl`
 
-## 📝 Usage Example
+### Live Demo
 
-1. **Patient Details Entry:**
-   - Set Age to 55
-   - Select Sex as "M" (Male)
-   - Set Resting BP to 145
-   - Set Cholesterol to 280
-   - Configure other parameters
-
-2. **Prediction:**
-   - Click "🔍 Predict Now"
-   - Receive immediate risk assessment
-
-## ⚠️ Disclaimer
-
-This application is for educational and informational purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical decisions.
-
-## ⚠️
+https://abhishekr45--heart-disease-prediction-app-app-3vfev9.streamlit.app/
